@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "named queries", "named queries\named queries.dwproj", "{B372A11B-00BF-45E0-92D2-D43B92792307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B372A11B-00BF-45E0-92D2-D43B92792307}.Development|Default.ActiveCfg = Development
+		{B372A11B-00BF-45E0-92D2-D43B92792307}.Development|Default.Build.0 = Development
+		{B372A11B-00BF-45E0-92D2-D43B92792307}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

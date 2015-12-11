@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "cube using MDX", "cube using MDX\cube using MDX.dwproj", "{3F9FDC19-3EFB-43BE-99D1-68567C5B8DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F9FDC19-3EFB-43BE-99D1-68567C5B8DE9}.Development|Default.ActiveCfg = Development
+		{3F9FDC19-3EFB-43BE-99D1-68567C5B8DE9}.Development|Default.Build.0 = Development
+		{3F9FDC19-3EFB-43BE-99D1-68567C5B8DE9}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
